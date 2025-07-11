@@ -18,7 +18,7 @@ while True:
     print("Invalid input! Please enter a valid number.")
         
 # Calculator
-sum_result = num1 + num2
+addition_result = num1 + num2
 subtraction_result = num1 - num2
 multiplication_result = num1 * num2
 
@@ -29,7 +29,7 @@ else:
   division_result = None
 
 # Output the result
-print(f"The result of addition is {sum_result}.")
+print(f"The result of addition is {addition_result}.")
 print(f"The result of subtraction is {subtraction_result}.")
 print(f"The result of multiplication is {multiplication_result}.")
 
